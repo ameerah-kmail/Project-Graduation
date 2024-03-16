@@ -1,0 +1,60 @@
+\begin{thebibliography}{10}
+
+\bibitem{Bluetooth}
+Hc-06 bluetooth module.
+\newblock
+  \url{https://components101.com/wireless/hc-06-bluetooth-module-pinout-datasheet},
+  2021.
+\newblock Last accessed 12 Feb 2022.
+
+\bibitem{UltrasonicSensor}
+Understanding how ultrasonic sensors work.
+\newblock
+  \url{https://www.maxbotix.com/articles/how-ultrasonic-sensors-work.htm},
+  2021.
+\newblock Last accessed 12 Feb 2022.
+
+\bibitem{Arduino2}
+Arduino products.
+\newblock \url{https://www.arduino.cc/en/Products/Compare}, 2022.
+\newblock Last accessed 15 Jan 2022.
+
+\bibitem{Arduino}
+Arduino uno and genuino uno.
+\newblock \url{https://www.arduino.cc/en/Main/arduinoBoardUnogt;}, 2022.
+\newblock Last accessed 2 Feb 2022.
+
+\bibitem{Arduino1}
+Comparison of arduino microcontrollers.
+\newblock \url{https://linuxhint.com/microcontrollers-comparison-arduino/},
+  2022.
+\newblock Last accessed 3 Feb 2022.
+
+\bibitem{injuries}
+Road traffic injuries.
+\newblock \url{https://www.who.int/news-room/fact-sheets/detail/road-
+  traffic-injuries}, 2022.
+\newblock Last accessed 15 Jan 2022.
+
+\bibitem{motordriver}
+What is motor driver module?
+\newblock \url{https://askinglot.com/what-is-motor-driver-module}, 2022.
+\newblock Last accessed 28 Jan 2022.
+
+\bibitem{PatternMatching}
+Ritesh Kanjee, Asheer~K. Bachoo, and Johnson Carroll.
+\newblock Vision-based adaptive cruise control using pattern matching.
+\newblock 6(1):93--98, 2013.
+
+\bibitem{Automated}
+Harrish~R. Madhan and Kavi~P. Priya.
+\newblock Fully automated cruise control system using ultrasonic sensor.
+\newblock {\em Biomedical \& Pharmacology}, 8(1):301\--306, 2015.
+
+\bibitem{Robotic}
+E.~Yılmaz and Sibel~T. Özyer.
+\newblock Remote and autonomous controlled robotic car based on arduino with
+  real time obstacle detection and avoidance.
+\newblock {\em Universal Journal of Engineering Science}, 7(1):1\--7, 2019.
+
+\end{thebibliography}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".adas">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="294dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="140dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="140dp"
+        android:background="#EF77A0"
+        android:text="ADAS system"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/acc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="120dp"
+
+        android:onClick="next_acc"
+        android:text="ACC system"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:backgroundTint="@android:color/secondary_text_dark_nodisable"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <Button
+        android:id="@+id/esc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="120dp"
+        android:text="ESC system"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:backgroundTint="@android:color/secondary_text_light_nodisable"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/acc" />
+
+    <Button
+        android:id="@+id/fcw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="120dp"
+        android:text="FCW system"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:backgroundTint="@android:color/secondary_text_dark"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/esc" />
+
+    <Button
+        android:id="@+id/LDW"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="52dp"
+        android:layout_marginEnd="120dp"
+        android:text="LDW system"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:backgroundTint="@android:color/secondary_text_dark"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.58"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fcw" />
+
+    <Button
+        android:id="@+id/backManual"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="adas_To_manual"
+        android:text="Back to Main"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/LDW"
+        app:layout_constraintVertical_bias="0.396" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

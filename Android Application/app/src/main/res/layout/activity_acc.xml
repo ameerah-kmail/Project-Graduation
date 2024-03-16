@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".acc">
+
+
+    <Button
+        android:id="@+id/stop_btn"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-120dp"
+        android:text="Stop" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="335dp"
+        android:text="BlueTooth Address" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="127dp"
+        android:layout_marginTop="68dp"
+        android:layout_marginEnd="150dp"
+        android:text="ACC System"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/speed"
+        android:layout_width="249dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="85dp"
+        android:layout_marginTop="163dp"
+        android:backgroundTint="#CDDC39"
+        android:ems="10"
+        android:hint="Enter  initial speed"
+
+
+        android:inputType="number"
+        android:textAlignment="center"
+        android:textColor="@color/cardview_dark_background"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="38dp"
+        android:layout_marginTop="319dp"
+        android:text="Start" />
+
+    <Button
+        android:id="@+id/stop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="320dp"
+        android:layout_marginEnd="27dp"
+        android:text="Stop" />
+
+    <Button
+        android:id="@+id/go_to_Manual"
+        android:layout_width="124dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="33dp"
+        android:layout_marginEnd="253dp"
+        android:layout_marginBottom="72dp"
+        android:onClick="acc_To_manual"
+        android:text="Back to main" />
+
+    <Button
+        android:id="@+id/send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="319dp"
+        android:layout_marginEnd="162dp"
+        android:text="Send" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="110dp"
+        android:layout_height="61dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="60dp"
+        android:layout_marginBottom="72dp"
+        android:onClick="back_adas"
+        android:text="Back to ADAS" />
+
+</RelativeLayout>
+
+
+
+
+
+

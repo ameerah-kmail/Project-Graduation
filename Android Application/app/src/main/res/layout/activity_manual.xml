@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:onClick="goMain"
+    tools:context=".Manual">
+
+    <Button
+        android:id="@+id/forward_btn"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="146dp"
+        android:layout_marginEnd="-2dp"
+        android:layout_marginRight="-2dp"
+        android:layout_toStartOf="@+id/right_btn"
+        android:layout_toLeftOf="@+id/right_btn"
+        android:text="Forward" />
+
+    <Button
+        android:id="@+id/left_btn"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/forward_btn"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="21dp"
+        android:layout_toStartOf="@+id/forward_btn"
+        android:layout_toLeftOf="@+id/forward_btn"
+        android:text="LEFT" />
+
+    <Button
+        android:id="@+id/right_btn"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:layout_above="@+id/reverse_btn"
+        android:layout_marginStart="23dp"
+        android:layout_marginLeft="23dp"
+        android:layout_marginBottom="-2dp"
+        android:layout_toEndOf="@+id/reverse_btn"
+        android:layout_toRightOf="@+id/reverse_btn"
+        android:text="RIGHT" />
+
+    <Button
+        android:id="@+id/reverse_btn"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/left_btn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="REVERSE" />
+
+    <Button
+        android:id="@+id/stop_btn"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/left_btn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-77dp"
+        android:text="Stop" />
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="-3dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="6dp"
+        android:layout_marginBottom="335dp"
+        android:text="BlueTooth Address" />
+
+
+    <Button
+        android:id="@+id/go_to_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="562dp"
+        android:onClick="goMain"
+        android:text="Back to Main" />
+
+</RelativeLayout>

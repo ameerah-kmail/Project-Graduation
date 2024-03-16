@@ -1,0 +1,41 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Working of ACC \cite {Automated}.}}{4}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Ultrasonic Sensor working principle \cite {Robotic}.}}{5}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Adaptive cropping uses previous vehicle location to restrict ROI \cite {PatternMatching}.}}{6}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Block Diagram}}{7}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Arduino(UNO/ATmega328)}}{9}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Ultrasonic Sensor}}{9}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces HC-06 Bluetooth module}}{10}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Motor Drive Module Board (L298N Dual H-Bridge)}}{11}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Car with 4 DC Geared Motors}}{12}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces The prototype-car}}{12}{}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Power supply}}{13}{}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Female to Male jumper wires}}{13}{}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Female to Female Jumper Wires}}{13}{}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Breadboard}}{14}{}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Flow chart}}{16}{}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Use case}}{17}{}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Turn on-off car sequence }}{19}{}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Turn on-off ACC sequence}}{19}{}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Set limit speed sequence}}{20}{}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Move the car in four direction sequence}}{20}{}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Hardware sequence}}{21}{}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces ACC State diagram}}{22}{}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Find the distance using an ultrasonic sensor.}}{23}{}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Control motor speed according to distance.}}{24}{}%
+\contentsline {figure}{\numberline {3.22}{\ignorespaces System Connections}}{26}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The main page}}{27}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces The manual driving page}}{28}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The ADAS page}}{29}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces The ACC page}}{30}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces The final form of the car}}{31}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Gantt chart-0}}{32}{}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Gantt chart-1}}{32}{}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Gantt chart-2}}{33}{}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Gantt chart-3}}{33}{}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }

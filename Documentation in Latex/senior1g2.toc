@@ -1,0 +1,52 @@
+\contentsline {chapter}{LIST OF FIGURES}{vii}{}%
+\contentsline {chapter}{LIST OF TABLES}{viii}{}%
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{}%
+\contentsline {section}{\numberline {1.1}\fontsize {12}{12}\selectfont {Problem Statement and Purpose}}{1}{}%
+\contentsline {section}{\numberline {1.2}\fontsize {12}{12}\selectfont {Project and Design Objectives}}{1}{}%
+\contentsline {section}{\numberline {1.3}\fontsize {12}{12}\selectfont {Intended Outcomes and Deliverable}}{1}{}%
+\contentsline {section}{\numberline {1.4}\fontsize {12}{12}\selectfont {Summary of Report Structure}}{2}{}%
+\contentsline {chapter}{\numberline {2}BACKGROUND}{3}{}%
+\contentsline {section}{\numberline {2.1}\fontsize {12}{12}\selectfont {Overview}}{3}{}%
+\contentsline {section}{\numberline {2.2}\fontsize {12}{12}\selectfont {Related Work}}{3}{}%
+\contentsline {subsection}{\numberline {2.2.1}\fontsize {12}{12}\selectfont {Fully Automated Cruise Control System Using Ultrasonic Sensor}}{3}{}%
+\contentsline {subsection}{\numberline {2.2.2}\fontsize {12}{12}\selectfont {Remote and Autonomous Controlled Robotic Carbased on Arduino with Real Time Obstacle Detection and Avoidance}}{4}{}%
+\contentsline {subsection}{\numberline {2.2.3}\fontsize {12}{12}\selectfont {Vision-Based Adaptive Cruise Control Using Pattern Matching}}{5}{}%
+\contentsline {subsection}{\numberline {2.2.4}\fontsize {12}{12}\selectfont {Analysis of Existing Systems}}{6}{}%
+\contentsline {chapter}{\numberline {3}METHODS AND MATERIALS}{7}{}%
+\contentsline {section}{\numberline {3.1}\fontsize {12}{12}\selectfont {System Design and Components}}{7}{}%
+\contentsline {subsection}{\numberline {3.1.1}\fontsize {12}{12}\selectfont {Block Diagram}}{7}{}%
+\contentsline {subsection}{\numberline {3.1.2}\fontsize {12}{12}\selectfont {Hardware Components}}{8}{}%
+\contentsline {section}{\numberline {3.2}\fontsize {12}{12}\selectfont {{Design Specifications, Standards and Constraints}}}{14}{}%
+\contentsline {subsection}{\numberline {3.2.1}\fontsize {12}{12}\selectfont {Specifications:}}{14}{}%
+\contentsline {subsection}{\numberline {3.2.2}\fontsize {12}{12}\selectfont {Constraints:}}{14}{}%
+\contentsline {subsection}{\numberline {3.2.3}\fontsize {12}{12}\selectfont {Standards:}}{14}{}%
+\contentsline {section}{\numberline {3.3}\fontsize {12}{12}\selectfont {Design Alternatives}}{15}{}%
+\contentsline {section}{\numberline {3.4}\fontsize {12}{12}\selectfont {System Analysis and Optimization}}{16}{}%
+\contentsline {subsection}{\numberline {3.4.1}\fontsize {12}{12}\selectfont {ACC flow chart:}}{16}{}%
+\contentsline {subsection}{\numberline {3.4.2}\fontsize {12}{12}\selectfont {ACC use case:}}{17}{}%
+\contentsline {subsection}{\numberline {3.4.3}\fontsize {12}{12}\selectfont {ACC use case tables:}}{17}{}%
+\contentsline {subsection}{\numberline {3.4.4}\fontsize {12}{12}\selectfont {ACC Sequence Diagrams:}}{19}{}%
+\contentsline {subsection}{\numberline {3.4.5}\fontsize {12}{12}\selectfont {ACC State Diagram:}}{21}{}%
+\contentsline {section}{\numberline {3.5}\fontsize {12}{12}\selectfont {Simulation and/or Experimental Test}}{23}{}%
+\contentsline {subsection}{\numberline {3.5.1}\fontsize {12}{12}\selectfont {Test Ultrasonic sensor using the tinkercad simulator.}}{23}{}%
+\contentsline {subsection}{\numberline {3.5.2}\fontsize {12}{12}\selectfont {Control motor speed according to distance using the tinkercad simulator.}}{24}{}%
+\contentsline {subsection}{\numberline {3.5.3}\fontsize {12}{12}\selectfont { System connections using the proteus simulator.}}{24}{}%
+\contentsline {chapter}{\numberline {4}RESULTS AND DISCUSSIONS}{27}{}%
+\contentsline {section}{\numberline {4.1}\fontsize {12}{12}\selectfont {Results}}{27}{}%
+\contentsline {section}{\numberline {4.2}\fontsize {12}{12}\selectfont {Discussions}}{31}{}%
+\contentsline {chapter}{\numberline {5}PROJECT MANAGEMENT}{32}{}%
+\contentsline {section}{\numberline {5.1}\fontsize {12}{12}\selectfont {Tasks, Schedule and Milestones}}{32}{}%
+\contentsline {section}{\numberline {5.2}\fontsize {12}{12}\selectfont {Resources and Cost Management}}{34}{}%
+\contentsline {section}{\numberline {5.3}\fontsize {12}{12}\selectfont {Lessons Learned}}{34}{}%
+\contentsline {chapter}{\numberline {6}IMPACT OF THE ENGINEERING SOLUTION}{36}{}%
+\contentsline {section}{\numberline {6.1}\fontsize {12}{12}\selectfont {Economical, Societal and Global}}{36}{}%
+\contentsline {section}{\numberline {6.2}\fontsize {12}{12}\selectfont {Environmental and Ethical}}{36}{}%
+\contentsline {chapter}{\numberline {7}CONCLUSIONS AND RECOMMENDATIONS}{37}{}%
+\contentsline {section}{\numberline {7.1}\fontsize {12}{12}\selectfont {Summary of Achievements of the Project Objectives}}{37}{}%
+\contentsline {section}{\numberline {7.2}\fontsize {12}{12}\selectfont {New Skills and Experiences Learnt}}{37}{}%
+\contentsline {section}{\numberline {7.3}\fontsize {12}{12}\selectfont {Recommendations for Future Work}}{37}{}%
+\contentsline {chapter}{Bibliography}{38}{}%
+\contentsline {chapter}{APPENDICES}{39}{}%
+\contentsline {subsection}{Appendix A:}{39}{}%
+\contentsline {subsection}{Appendix B:}{42}{}%
+\contentsline {subsection}{Appendix C:}{45}{}%
